@@ -1,0 +1,12 @@
+*.exe
+*.dll
+*.pdb
+*.log
+*.heartbeat
+status.json
+installation.json
+stop.request
+FanDiagnostics-*.json
+bin/
+obj/
+.vs/
