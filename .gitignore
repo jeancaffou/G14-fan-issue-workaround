@@ -1,0 +1,8 @@
+*
+!.gitignore
+!.gitattributes
+!README.md
+!G14FanGuard.cs
+!Build.ps1
+!Manage-G14FanGuard.ps1
+!Stop-G14FanGuard.cmd
